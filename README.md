@@ -1,3 +1,8 @@
+python
+code-analysis
+code-quality
+cli-tool
+open-source
 # 📊 Code Complexity Analyzer
 
 A Python CLI tool that analyzes Python code quality and provides detailed complexity metrics. Perfect for developers who want to maintain clean, maintainable code.
